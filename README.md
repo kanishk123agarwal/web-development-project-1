@@ -60,16 +60,7 @@
       font-size: 20px;
       border-bottom: 2px solid yellow ;
     }
-    /* .image{
-        width: 500px;
-        height: 500px;
-    }
-    .image img{
-        width: 100%;
-        height: 100%;
-        object-fit: contain;
-    } */
-    .content{
+   .content{
         display: flex;
         width: 90%;
         justify-content: space-between;
