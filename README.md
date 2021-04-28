@@ -25,10 +25,10 @@
       </nav>
   </section>  
   <div class="content">
-      <div class="image">
+<!--       <div class="image">
 
         <img alt="Dr. APJ Abdul Kalam Age, Biography, Wife, Death Cause, Facts &amp; More »  StarsUnfolded" class="n3VNCb" src="http://starsunfolded.com/wp-content/uploads/2017/08/APJ-Abdul-Kalam.jpg" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 500px; height: 450px; margin: 0px;">
-      </div>
+      </div> -->
       <div class="text">
           <h1>APJ ABDUL KALAM</h1>
           <h3>Introduction</h3>
